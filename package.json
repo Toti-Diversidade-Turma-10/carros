@@ -1,0 +1,22 @@
+{
+  "name": "carros",
+  "version": "1.0.0",
+  "description": "Atividade de carros",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toti-Diversidade-Turma-10/carros.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toti-Diversidade-Turma-10/carros/issues"
+  },
+  "homepage": "https://github.com/Toti-Diversidade-Turma-10/carros#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
