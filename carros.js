@@ -1,6 +1,9 @@
 module.exports.temCarroDaMarca = function temCarroDaMarca(carros, marca) {
   // coloque aqui o algoritmo para retornar um boolean (true ou false)
   // se existir um carro com a marca informada ou não
+  if (carros.length === 0) {
+    return false;
+  }
   return null;
 }
 
