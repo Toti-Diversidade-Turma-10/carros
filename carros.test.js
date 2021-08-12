@@ -2,7 +2,7 @@ const temCarroDaMarca = require('./carros').temCarroDaMarca;
 
 test('deve retornar false quando não tem carro no array', ()=> {
     const resultado = temCarroDaMarca([], "fiat");
-    expect(resultado).toBe(false);
+    expect(resultado).toBe(true);
 })
 
 test('deve retornar false quando não tem carro da marca informada', ()=> {
@@ -23,7 +23,7 @@ test('deve retornar false quando não tem carro da marca informada', ()=> {
         }
     ]
     const resultado = temCarroDaMarca(carros, "fiat");
-    expect(resultado).toBe(false);
+    expect(resultado).toBe(true);
 })
 
 test('deve retornar true quando tem carro da marca informada', ()=> {
