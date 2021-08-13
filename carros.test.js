@@ -46,3 +46,4 @@ test('deve retornar true quando tem carro da marca informada', ()=> {
     const resultado = temCarroDaMarca(carros, "volkswagen");
     expect(resultado).toBe(true);
 })
+const carrosNaCor = require('./carros').carrosNaCor;
