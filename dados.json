@@ -1,0 +1,149 @@
+[
+  {
+    "marca": "chevrolet",
+    "modelo": "onix",
+    "tipo": "hatch",
+    "cor": "verde",
+    "ano": 2014
+  },
+  {
+    "marca": "chevrolet",
+    "modelo": "onix plus",
+    "tipo": "sedan",
+    "cor": "vermelho",
+    "ano": 2020
+  },
+  {
+    "marca": "chevrolet",
+    "modelo": "s-10",
+    "tipo": "picape",
+    "cor": "vermelho",
+    "ano": 1998
+  },
+  {
+    "marca": "volkswagen",
+    "modelo": "gol",
+    "tipo": "hatch",
+    "cor": "rosa",
+    "ano": 1995
+  },
+  {
+    "marca": "volkswagen",
+    "modelo": "virtus",
+    "tipo": "sedan",
+    "cor": "branco",
+    "ano": 2019
+  },
+  {
+    "marca": "volkswagen",
+    "modelo": "t-cross",
+    "tipo": "suv",
+    "cor": "verde",
+    "ano": 2020
+  },
+  {
+    "marca": "volkswagen",
+    "modelo": "saveiro",
+    "tipo": "picape",
+    "cor": "laranja",
+    "ano": 2002
+  },
+  {
+    "marca": "fiat",
+    "modelo": "strada",
+    "tipo": "picape",
+    "cor": "preto",
+    "ano": 2008
+  },
+  {
+    "marca": "fiat",
+    "modelo": "toro",
+    "tipo": "picape",
+    "cor": "preto",
+    "ano": 2017
+  },
+  {
+    "marca": "renault",
+    "modelo": "kwid",
+    "tipo": "hatch",
+    "cor": "branco",
+    "ano": 2018
+  },
+  {
+    "marca": "ford",
+    "modelo": "ka",
+    "tipo": "hatch",
+    "cor": "cinza",
+    "ano": 1997
+  },
+  {
+    "marca": "ford",
+    "modelo": "ka sedan",
+    "tipo": "sedan",
+    "cor": "verde",
+    "ano": 2016
+  },
+  {
+    "marca": "toyota",
+    "modelo": "corolla",
+    "tipo": "sedan",
+    "cor": "vermelho",
+    "ano": 2014
+  },
+  {
+    "marca": "toyota",
+    "modelo": "hilux",
+    "tipo": "picape",
+    "cor": "vermelho",
+    "ano": 2015
+  },
+  {
+    "marca": "hyundai",
+    "modelo": "hb20",
+    "tipo": "hatch",
+    "cor": "azul",
+    "ano": 2008
+  },
+  {
+    "marca": "hyundai",
+    "modelo": "hb20s",
+    "tipo": "sedan",
+    "cor": "branco",
+    "ano": 2019
+  },
+  {
+    "marca": "hyundai",
+    "modelo": "creta",
+    "tipo": "suv",
+    "cor": "branco",
+    "ano": 2017
+  },
+  {
+    "marca": "jeep",
+    "modelo": "renegade",
+    "tipo": "suv",
+    "cor": "amarelo",
+    "ano": 2008
+  },
+  {
+    "marca": "jeep",
+    "modelo": "compass",
+    "tipo": "suv",
+    "cor": "azul",
+    "ano": 2016
+  },
+  {
+    "marca": "honda",
+    "modelo": "civic",
+    "tipo": "sedan",
+    "cor": "amarelo",
+    "ano": 2012
+  },
+  {
+    "marca": "nissan",
+    "modelo": "kicks",
+    "tipo": "suv",
+    "cor": "amarelo",
+    "ano": 2016
+  }
+]
