@@ -13,14 +13,6 @@ function temCarroDaMarca(carros, marca) {
 
 function carrosNaCor(carros, cor) {
  
- for (let carro of carros){
-  if (carro.cor !== cor) {
-    return 0;
-   }
- }
- 
-
- 
     let quantidade = 0;
 
     for (let carro of carros) {
